@@ -2,7 +2,7 @@
 E-Commerce Platform | [Name of Website]
 
 Team 32:
-1.
+1. Habib Kamal
 2.
 3.
 4.
