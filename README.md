@@ -4,7 +4,7 @@ E-Commerce Platform | [Name of Website]
 Team 32:
 1. Habib Kamal
 2. Brajan Rychlowski - 240202378
-3.
+3. Salah Abdo (240368124) - assa3idi05
 4.
 5.
 6.
