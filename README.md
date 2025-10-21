@@ -66,7 +66,7 @@ E-Commerce Platform | [Name of Website]
 
 Team 32:
 1. Habib Kamal
-2.
+2. Salah Abdo (240368124) - assa3idi05
 3.
 4.
 5.
