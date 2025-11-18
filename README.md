@@ -62,11 +62,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
 # CS2TP
-E-Commerce Platform | [Name of Website]
+an E-Commerce Platform we are buliding as part of our team project. The Project is called Athletiq!
 
 Team 32:
 1. Habib Kamal
-2.
+2. Salah Abdo (240368124) - assa3idi05
 3.
 4.
 5.
